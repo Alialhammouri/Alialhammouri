@@ -1,0 +1,25 @@
+section {
+    padding: 30px;
+}
+  
+h2 {
+    margin-bottom: 30px;
+}
+
+h5 {
+    margin-bottom: 30px;
+    margin-left: 10px;
+}
+  
+.navbar-brand {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+mark {
+    font-size: 18px;
+    background-color: #F5F5F5;
+    border: 1px solid #ECFFFF;
+    border-radius: 5px;
+}
+  

@@ -17,9 +17,11 @@ h5 {
 }
 
 mark {
-    font-size: 18px;
-    background-color: #F5F5F5;
-    border: 1px solid #ECFFFF;
+    background-color: #FBFFDC;
+    border: 1px solid #FBFFDC;
     border-radius: 5px;
 }
-  
+
+.hobbies li {
+    padding: 5px;
+}

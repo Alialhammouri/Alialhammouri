@@ -16,12 +16,30 @@ h5 {
     font-weight: bold;
 }
 
-mark {
+.hobbies li {
+    list-style-type: none;
+    padding: 5px;
+}
+
+.hobbies mark {
     background-color: #FBFFDC;
     border: 1px solid #FBFFDC;
     border-radius: 5px;
+    margin-left: 10px;
 }
 
-.hobbies li {
-    padding: 5px;
+.contact-info li {
+    list-style-type: none;
+    padding: 10px;
 }
+
+.contact-info mark {
+    background-color: #F5F5F5;
+    border-radius: 5px;
+    margin-left: 10px;
+}
+
+.contact-info a {
+    color: #4A55A2;
+}
+

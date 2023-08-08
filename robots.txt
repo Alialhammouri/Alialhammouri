@@ -1,0 +1,25 @@
+User-agent: *
+Disallow: /private/
+Disallow: /admin/
+Disallow: /hidden/
+Disallow: /tmp/
+Disallow: /temp/
+Disallow: /backup/
+Disallow: /config/
+Disallow: /cgi-bin/
+Disallow: /wp-admin/
+Disallow: /wp-includes/
+Disallow: /wp-content/plugins/
+Disallow: /wp-content/themes/
+Disallow: /wp-login.php
+Disallow: /xmlrpc.php
+Disallow: /feed/
+Disallow: /trackback/
+Disallow: /page/
+Disallow: /tag/
+Disallow: /category/
+Disallow: /*?
+Allow: /wp-content/uploads/
+Allow: /sitemap.xml
+
+Sitemap: https://alialhammouri.com/sitemap.xml
